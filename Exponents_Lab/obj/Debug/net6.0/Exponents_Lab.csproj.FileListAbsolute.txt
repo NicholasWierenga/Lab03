@@ -1,0 +1,15 @@
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\bin\Debug\net6.0\Exponents_Lab.exe
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\bin\Debug\net6.0\Exponents_Lab.deps.json
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\bin\Debug\net6.0\Exponents_Lab.runtimeconfig.json
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\bin\Debug\net6.0\Exponents_Lab.dll
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\bin\Debug\net6.0\Exponents_Lab.pdb
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\obj\Debug\net6.0\Exponents_Lab.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\obj\Debug\net6.0\Exponents_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\obj\Debug\net6.0\Exponents_Lab.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\obj\Debug\net6.0\Exponents_Lab.AssemblyInfo.cs
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\obj\Debug\net6.0\Exponents_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\obj\Debug\net6.0\Exponents_Lab.dll
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\obj\Debug\net6.0\refint\Exponents_Lab.dll
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\obj\Debug\net6.0\Exponents_Lab.pdb
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\obj\Debug\net6.0\Exponents_Lab.genruntimeconfig.cache
+C:\Users\Nick\source\repos\Exponents_Lab\Exponents_Lab\obj\Debug\net6.0\ref\Exponents_Lab.dll
